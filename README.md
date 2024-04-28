@@ -5,7 +5,7 @@ A python script to auto replace the starting banner of the JetBrains IDEA / 一�
 # Feature / 特点
 基本自动地替换启动图，不需要再麻烦的一个一个搞
 
-理论上支持全部JetBrains IDEA (2024.1+)版本，但是懒得做，搜索过滤只有PyCharm, Clion, RustRover，在PyCharm2024.1上测试成功
+理论上支持全部JetBrains IDEA (2024.1+)版本，但是懒得做，搜索过滤只有PyCharm, Clion, RustRover，可以自己指定，在PyCharm2024.1上测试成功
 
 
 # Usage / 使用
